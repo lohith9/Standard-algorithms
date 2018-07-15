@@ -1,3 +1,7 @@
+// Time-complexity :-O(n).
+
+// Space-complexity :-O(n).
+
 #include <bits/stdc++.h>
 #include <iostream>
 
