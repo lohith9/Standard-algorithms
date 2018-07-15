@@ -2,6 +2,8 @@
 
 // Space-complexity :-O(n).
 
+// Very Important
+// Another way of asking this question :- Find the maximum of j-i subjected to A[i]<A[j].
 #include <bits/stdc++.h>
 #include <iostream>
 
